@@ -22,7 +22,7 @@ This project practices the use of a Linear Regression model with one feature—S
 
 You can see the graph below:
 
-![Figure_1](https://github.com/SukprasarnRatt/SimpleLinearRegression/assets/74826344/3a593f41-1caa-4a6a-9b72-fd1aaefa404d)![image](https://github.com/SukprasarnRatt/SimpleLinearRegression/assets/74826344/2f1b8a9f-f2a2-4e1d-9a61-a403dace4ee3)
+![Figure_1](https://github.com/SukprasarnRatt/SimpleLinearRegression/assets/74826344/3a593f41-1caa-4a6a-9b72-fd1aaefa404d)
 
 
 
