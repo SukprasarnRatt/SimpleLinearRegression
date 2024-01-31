@@ -24,22 +24,6 @@ regressor.fit(X_train, y_train)
 # Predicting the Training set results
 y_pred = regressor.predict(X_test)
 
-# # Visualising the Training set results
-# plt.scatter(X_train, y_train, color = 'red')
-# plt.plot(X_train, regressor.predict(X_train), color = 'blue')
-# plt.title('GPA vs SAT Score (Training set)')
-# plt.xlabel('SAT Score')
-# plt.ylabel('GPA')
-# plt.show()
-
-# # Visualising the Test set results
-# plt.scatter(X_test, y_test, color = 'red')
-# plt.plot(X_train, regressor.predict(X_train), color = 'blue')
-# plt.title('GPA vs SAT Score (Test set)')
-# plt.xlabel('SAT Score')
-# plt.ylabel('GPA')
-# plt.show()
-
 
 # Visualising the Training and Test set results simultaneously
 fig, axes = plt.subplots(nrows=1, ncols=2, figsize=(12, 6))
