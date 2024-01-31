@@ -1,17 +1,28 @@
-# SimpleLinearRegression
+# Simple Linear Regression Project
+
 This project practices the use of a Linear Regression model with one feature—SAT scores—to predict students' GPA.
 
-•	libraries
-  o	Numpy
-  o	Matplotlib
-  o	pandas
+## Libraries
 
-• What I do in the practice project
-  o split dataset into 2 set. The first one is training set data, and the second one is test set data.
-  o Use class LinearRegression from sklearn library to train the model.
-  o After training the model, use the model to predict students' GPA by using test set data.
-  o Then plot graph for Training set and Test set.
-  o Use regressiion model predict a single input (SAT score) and print predict output (GPA).
-  o Print coefficient and y-intercept of the equation
-• The picture below is the graph of Training Set and Test Set
-![Figure_1](https://github.com/SukprasarnRatt/SimpleLinearRegression/assets/74826344/3a593f41-1caa-4a6a-9b72-fd1aaefa404d)
+- Numpy
+- Matplotlib
+- pandas
+- sklearn
+
+## Steps in the Practice Project
+
+1. **Split Dataset**: Split the dataset into two sets - a training set (80%) and a test set (20%).
+2. **Train Model**: Use the `LinearRegression` class from the `sklearn` library to train the model using the training set data.
+3. **Predict GPA**: After training the model, use it to predict students' GPA by using the test set data.
+4. **Plot Graph**: Plot graphs for both the Training set and Test set.
+5. **Single Input Prediction**: Use the regression model to predict a single input (SAT score) and print the predicted output (GPA).
+6. **Print Coefficients**: Print the coefficient and y-intercept of the equation.
+
+## Graph of Training Set and Test Set
+
+You can see the graph below:
+
+![Figure_1](https://github.com/SukprasarnRatt/SimpleLinearRegression/assets/74826344/3a593f41-1caa-4a6a-9b72-fd1aaefa404d)![image](https://github.com/SukprasarnRatt/SimpleLinearRegression/assets/74826344/2f1b8a9f-f2a2-4e1d-9a61-a403dace4ee3)
+
+
+
