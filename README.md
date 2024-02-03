@@ -18,7 +18,7 @@ This project practices the use of a Linear Regression model with one feature—S
 5. **Single Input Prediction**: Use the regression model to predict a single input (SAT score) and print the predicted output (GPA).
 6. **Print Coefficients**: Print the coefficient and y-intercept of the equation.
 
-## Data Source: https://www.kaggle.com/datasets/luddarell/101-simple-linear-regressioncsv
+
 
 ## Graph of Training Set and Test Set
 
@@ -26,6 +26,8 @@ You can see the graph below:
 
 ![Figure_1](https://github.com/SukprasarnRatt/SimpleLinearRegression/assets/74826344/3a593f41-1caa-4a6a-9b72-fd1aaefa404d)
 
+
+## Data Source: https://www.kaggle.com/datasets/luddarell/101-simple-linear-regressioncsv
 
 
 
