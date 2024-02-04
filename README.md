@@ -9,7 +9,7 @@ This project practices the use of a Linear Regression model with one feature—S
 - pandas
 - sklearn
 
-## Steps in the Practice Practice
+## Steps in the Practice
 
 1. **Split Dataset**: Split the dataset into two sets - a training set (80%) and a test set (20%).
 2. **Train Model**: Use the `LinearRegression` class from the `sklearn` library to train the model using the training set data.
